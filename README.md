@@ -9,8 +9,12 @@ you’re including a description and/or interpretation, use full
 sentences. Make a commit at least after finishing each exercise, or
 better yet, more frequently. Push your work regularly to GitHub. Once
 you’re done, inspect your GitHub repo to make sure it has all the
-components you want to submit in the `homework-05.md` file, including
-the prose, the code, and all plots.
+components you want to submit in the `homework-05.html` file, including
+the prose, the code, and all plots. **Note:** This time we're using 
+`html_document` as the output so your gt table can show up in your 
+document properly. But this means you won't be able to preview what 
+you submit on GitHub as easily, you need to preview it locally in your 
+RStudio.
 
 1.  **COVID survey - interpret.** A survey was conducted on the
     attitudes and opinions towards COVID-19 vaccination held by medical

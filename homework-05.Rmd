@@ -1,0 +1,20 @@
+---
+title: "Homework 05"
+author: "INSERT YOUR NAME HERE"
+output: html_document
+---
+
+```{r load-packages, message = FALSE}
+library(tidyverse)
+# add any other packages you use here
+```
+
+1.  **COVID survey - interpret.**
+
+2.  **COVID survey - reconstruct.**
+
+3.  **COVID survey - re-reconstruct.**
+
+4.  **COVID survey - tabulate**
+
+5.  **Make me a reprex.**
